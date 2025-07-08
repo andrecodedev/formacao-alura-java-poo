@@ -32,7 +32,7 @@ Durante a formação, foram explorados os seguintes tópicos:
 ## 📁 Estrutura do Repositório
 
 ```bash
-📦 java-orientacao-objetos-one
+📦 formacao-alura-java-poo
  ┣ 📂 projetos
  ┃ ┣ 📂 consolidando-conhecimentos
  ┃ ┣ 📂 desafio-conversor-moedas
