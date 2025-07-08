@@ -34,8 +34,7 @@ Durante a formação, foram explorados os seguintes tópicos:
 ```bash
 📦 java-orientacao-objetos-one
  ┣ 📂 projetos
+ ┃ ┣ 📂 consolidando-conhecimentos
  ┃ ┣ 📂 desafio-conversor-moedas
- ┃ ┣ 📂 listas-e-colecoes
- ┃ ┗ 📂 orientacao-a-objetos
- ┣ 📂 atividades
+ ┃ ┗ 📂 desafio-hora-da-pratica
  ┗ README.md
